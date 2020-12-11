@@ -17,6 +17,11 @@ Project management of large software-intensive systems : controlling the softwar
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
 
+> ## نمونه کتاب با لاتک 
+- **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
+       - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
+
+
 > ## Texlive
 - [دانلود تک لایو با حجم 4 گیگ](http://ctan.yazd.ac.ir/systems/texlive/Images/texlive2020-20200406.iso)
     - [سایت دانشگاه یزد برای دانلود آخرین نسخه](http://ctan.yazd.ac.ir/systems/texlive/Images/)
