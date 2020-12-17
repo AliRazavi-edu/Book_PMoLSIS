@@ -20,7 +20,9 @@
 - [فیلم آموزش لتکس LaTeX و ایجاد اولین پروژه](https://faradars.org/courses/mvrtex9201a-introduction-of-latex-and-first-project)
 - [LaTeX آموزش زبان اصلی  ](https://git.ir/packtpub-latex-for-everyone-and-everything/)
 - [QA ParsiLatex](http://qa.parsilatex.com/)
+
 > ## صفحه آرایی برخط بدون نصب لاتک
+- [**online_latex_editor**](https://www.tutorialspoint.com/online_latex_editor.php)
 - [overleaf سایت ](https://www.overleaf.com/)
 - [Fast math typesetting for the web](https://katex.org/)
 
